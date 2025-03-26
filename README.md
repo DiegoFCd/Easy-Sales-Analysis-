@@ -1,4 +1,7 @@
-# Análisis Predictivo con Regresión: Toma de Decisiones Basada en Datos
+# Análisis Predictivo con Regresión: Toma de Decisiones Basada en Datos<br>
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
 ## 📌 Descripción del Proyecto
 Desarrollé un modelo de regresión robusto a partir de un dataset complejo y desestructurado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)**. El resultado final permite generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.
